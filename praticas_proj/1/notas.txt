@@ -1,0 +1,16 @@
+4c - nao é usado o ber medio da 4b)
+     soma das probabilidade dos 3 primerios estados
+
+4d)- soma das probabilidade dos 2 ultimos estados1
+
+
+
+5) 
+
+64 bytes
+n é um parametro pode ser 2,3,4,5...
+
+se todos forem recebidos com erros está no intereferencia
+se nao, está no normal
+
+5a) 
